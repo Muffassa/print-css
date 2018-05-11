@@ -8,7 +8,7 @@
     "pdf": "prince index.html",
     "build": "npm run pdf"
   },
-  "author": "Nikita Dubko <n.a.dubko@gmail.com>",
+  "author": "Nikita Filatov",
   "license": "ISC",
   "devDependencies": {
     "browser-sync": "^2.18.13",
